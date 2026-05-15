@@ -1,17 +1,9 @@
-# Workers e Functions Jus 9
+# Workers Pages Functions Jus 9
 
-## Repertório
+Repertório: `workers-pages-functions-jus9`
 
-`workers-pages-functions-jus9`
+Status: novo/técnico
 
-## Status
+Mão na Massa Final — padrão visual, assinatura, governança e orientação obrigatória.
 
-novo
-
-## Fase
-
-Pré-Mão na Massa — Pacote Governança encerrado.
-
-## Finalidade
-
-Cria base para Workers, Pages Functions, APIs, IA, contato, autenticação, logs e webhooks, mantendo Workers como núcleo técnico principal.
+© Jus 9 Tecnologia Jurídica — software livre, autoria preservada.
